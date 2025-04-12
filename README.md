@@ -29,7 +29,6 @@ A python-based web application built with streamlit for managing train ticket bo
 5. Open the provided URL (typically http://localhost:8501) in your browser
 
 ## How it works
-## demo
 ![train booking workflow](trainbookingsys.png)
 
 ## Future enhancements & contributions
