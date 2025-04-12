@@ -30,7 +30,7 @@ A python-based web application built with streamlit for managing train ticket bo
 
 ## How it works
 ## demo
-![train booking workflow]()
+![train booking workflow](trainbookingsys.png)
 
 ## Future enhancements & contributions
 Enhance the app by adding a database (e.g., sqlite) for persistent storage, user authentication for secure access, or real-time notifications for bookings. Deploy it to a cloud platform like AWS or Heroku for production-grade scaling. Fork the repo, submit pull requests with features or fixes, or open issues for bugs and ideas!
