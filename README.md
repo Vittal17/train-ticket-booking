@@ -11,7 +11,7 @@ A python-based web application built with streamlit for managing train ticket bo
 
 ## tech stack
 - **Python**: Core logic and scripting
-- **Streamlit**: Web interface and ui framework
+- **Streamlit**: Web interface and UI framework
 
 ## Setup
 1. Clone the repository:
