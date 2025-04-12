@@ -9,7 +9,7 @@ A python-based web application built with streamlit for managing train ticket bo
 - **Interactive UI**: Streamlit-powered interface for smooth user interactions
 - **Modular design**: OOPS-based codebase for easy maintenance and scaling
 
-## tech stack
+## Tech stack
 - **Python**: Core logic and scripting
 - **Streamlit**: Web interface and UI framework
 
@@ -27,3 +27,6 @@ A python-based web application built with streamlit for managing train ticket bo
    python -m streamlit run app.py
 
 5. Open the provided URL (typically http://localhost:8501) in your browser
+
+## Future enhancements & contributions
+``nhance the app by adding a database (e.g., sqlite) for persistent storage, user authentication for secure access, or real-time notifications for bookings. Deploy it to a cloud platform like AWS or Heroku for production-grade scaling. Fork the repo, submit pull requests with features or fixes, or open issues for bugs and ideas!
